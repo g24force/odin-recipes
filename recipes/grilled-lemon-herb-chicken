@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grilled Lemon Herb Chicken</title>
+</head>
+<body>
+    <h1>Grilled Lemon Herb Chicken</h1>
+
+    <!-- <img src="" alt=""> -->
+
+    <h2>Description</h2>
+
+    <p>
+        Savor the bright, zesty flavors of Grilled Lemon Herb Chicken in this simple yet delicious recipe.
+    </p>
+
+    <p>
+        Marinated in a mixture of lemon, garlic, and fresh herbs, this chicken is grilled to perfection, resulting in tender, juicy, and flavorful poultry that's perfect for any occasion.
+    </p>
+
+    <h2>Ingredients</h2>
+
+    <ul>
+        <li>4 boneless, skinless chicken breasts</li>
+        <li>Zest and juice of 2 lemons</li>
+        <li>4 garlic cloves, minced</li>
+        <li>2 tablespoons fresh rosemary, chopped</li>
+        <li>2 tablespoons fresh thyme, chopped</li>
+        <li>2 tablespoons fresh parsley, chopped</li>
+        <li>1/4 cup olive oil</li>
+        <li>Salt and black pepper, to taste</li>
+    </ul>
+
+    <h2>Steps</h2>
+
+    <ol>
+        <li>Marinate the Chicken</li>
+
+        <li>Preheat and Oil the Grill</li>
+
+        <li>Grill the Chicken</li>
+
+        <li>Rest and Garnish</li>
+    </ol>
+</body>
+</html>
